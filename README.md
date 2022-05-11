@@ -15,7 +15,7 @@ out collectively by the network. Skullcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Skullcoin Core software, see [https://skullcoin.org](https://skullcoin.org).
+the Skullcoin Core software, see [https://skullcoin.com](https://skullcoin.com).
 
 License
 -------
