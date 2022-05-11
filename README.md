@@ -3,7 +3,7 @@ Skullcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/skullcoin-project/skullcoin.svg?branch=master)](https://travis-ci.org/skullcoin-project/skullcoin)
 
-https://skullcoin.org
+https://skullcoin.com
 
 What is Skullcoin?
 ----------------
